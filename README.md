@@ -4,11 +4,7 @@
 </p-->
 
 <h2>Hey there! 👋</h2>
-I'm IndianCoder29, an aspiring Engineer in Software Development based in Pune, India.
-
-<h2>OBJECTIVE 🚀</h2>
-
-Enthusiastic and dedicated Computer Science graduate seeking an entry-level position to apply my technical skills and problem-solving abilities. Eager to contribute to a dynamic team and drive innovation in a forward-thinking organization.
+I'm IndianCoder29, an aspiring Engineer in Software Development based in somewhere, India.
 
 <h2>SKILLS 💻</h2>
 
@@ -17,11 +13,6 @@ Enthusiastic and dedicated Computer Science graduate seeking an entry-level posi
   - **Frameworks & Technologies:** Laravel, React, Spring, MS Azure
   - **Machine Learning:** Python libraries (scikit-learn, seaborn)
   - **Software Tools:** MS Office (Excel, Word, PowerPoint), VS Code
-
-- **Soft Skills:**
-  - Excellent Communication Skills 💬
-  - Strong Teamwork Abilities 🤝
-  - Effective Problem-Solving Skills 🧩
 
 <h2>PROJECTS 🛠️</h2>
 
@@ -41,20 +32,6 @@ Enthusiastic and dedicated Computer Science graduate seeking an entry-level posi
 
 - **LeetCode Interview Top 150:**  (Private Repository)🌟
   - Repository containing solutions to the top 150 LeetCode interview questions in various programming languages.
-
-<h2>CERTIFICATIONS 📜</h2>
-
-- Amazon AWS Builders Online Series (July 2022) 🌐
-- Cyber Security Certification, SWAYAM (October 2023) 🔒
-
-<h2>INTERNSHIPS 🌐</h2>
-
-- **Microsoft Azure AI Introduction (June 2022):**
-  - Completed the Microsoft Azure AI Introduction course on learn.microsoft.com, gaining foundational knowledge of artificial intelligence concepts and their application in Microsoft Azure services.
-
-- **Cyber Security and Digital Forensics Intern (December 2023):**
-  - Company: NAS.io
-  - Assisted in cyber security investigations and digital forensics procedures, contributing to enhancing data security measures.
 
 <h2>ADDITIONAL INFORMATION ℹ️</h2>
 
