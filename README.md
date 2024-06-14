@@ -1,13 +1,10 @@
 <!-- Replace ./banner.png with the path to your banner image -->
-<p align="center">
+<!--p align="center">
   <img src="" alt="Bishnoi Bajrang Banner Image"/>
-</p>
+</p-->
 
 <h2>Hey there! 👋</h2>
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bishnoibajrang.bishnoibajrang)](https://github.com/bishnoibajrang) [![GitHub followers](https://img.shields.io/github/followers/bishnoibajrang.svg?style=social&label=Follow)](https://github.com/bishnoibajrang?tab=followers)
-
-I'm Bishnoi Bajrang, an aspiring Engineer in Software Development based in Pune, India.
+I'm IndianCoder29, an aspiring Engineer in Software Development based in Pune, India.
 
 <h2>OBJECTIVE 🚀</h2>
 
@@ -70,9 +67,6 @@ Enthusiastic and dedicated Computer Science graduate seeking an entry-level posi
 <p>(I'll update this section soon)</p>
 
 <ol>
-  <li><a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">LinkedIn</a> 🌐</li>
-  <li><a href="https://github.com/laxmena">GitHub</a> 🐙</li>
-  <li><a href="https://twitter.com/yourhandle">Twitter</a> 🐦</li>
-  <li><a href="https://www.instagram.com/yourhandle">Instagram</a> 📷</li>
-  <li><a href="https://medium.com/@yourusername">Medium</a> ✍️</li>
+  <li><a href="https://www.linkedin.com/in/">(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a></li>
+  <a href="https://www.linkedin.com/in/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </ol>
