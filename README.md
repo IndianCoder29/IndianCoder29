@@ -1,12 +1,19 @@
-## IndianCoder29
+<!-- Replace ./banner.png with the path to your banner image -->
+<p align="center">
+  <img src="" alt="Bishnoi Bajrang Banner Image"/>
+</p>
 
-[![Caffine to Code](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dgeek&psig=AOvVaw10gkZmfbS0ydwy49m4kNyi&ust=1718451190097000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCODi8dj_2oYDFQAAAAAdAAAAABAE)
+<h2>Hey there! 👋</h2>
 
-**OBJECTIVE** 🚀
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=bishnoibajrang.bishnoibajrang)](https://github.com/bishnoibajrang) [![GitHub followers](https://img.shields.io/github/followers/bishnoibajrang.svg?style=social&label=Follow)](https://github.com/bishnoibajrang?tab=followers)
 
-Enthusiastic and dedicated Computer Science graduate with a passion for solving complex problems and exploring cutting-edge technologies. Seeking an entry-level position to leverage technical skills and contribute to innovative projects in software development.
+I'm Bishnoi Bajrang, an aspiring Engineer in Software Development based in Pune, India.
 
-**SKILLS** 💻
+<h2>OBJECTIVE 🚀</h2>
+
+Enthusiastic and dedicated Computer Science graduate seeking an entry-level position to apply my technical skills and problem-solving abilities. Eager to contribute to a dynamic team and drive innovation in a forward-thinking organization.
+
+<h2>SKILLS 💻</h2>
 
 - **Technical Skills:**
   - **Programming Languages:** C, C++, Java, PHP, JavaScript, Python, PL/SQL
@@ -19,59 +26,53 @@ Enthusiastic and dedicated Computer Science graduate with a passion for solving 
   - Strong Teamwork Abilities 🤝
   - Effective Problem-Solving Skills 🧩
 
-**PROJECTS** 🛠️
+<h2>PROJECTS 🛠️</h2>
 
 - **E-commerce Website (Laravel):**
   - Developed a fully functional e-commerce platform with features including product listings, shopping cart, and product searching.
-  
+
 - **Underwater Object Detection System (Python, Machine Learning):**
-  - Built a machine learning model to classify rocks and mines from data, utilizing Python libraries like scikit-learn and seaborn for data visualization.
+  - Built a machine learning model to classify rocks and mines from data. Implemented data visualization using Seaborn.
 
-- **Basic Projects:**
-  - **React News App:** [Repository Link](https://github.com/IndianCoder29/ReactNewsApp) 📰
-    - Developed a React application for fetching and displaying news articles using an API.
+<h2>BASIC PROJECTS</h2>
 
-  
-  - **Daily Coding Challenge:** [Repository Link](https://github.com/IndianCoder29/DailyCodingChallenge)🔥
-    - Repository documenting daily coding challenges and solutions, aimed at improving algorithmic problem-solving skills.
-      
-   
-  - **LeetCode Interview Top 150:**  (Currently Private)🌟
-    - Repository containing solutions to the top 150 LeetCode interview questions in various programming languages.
+- **React News App:** [Repository Link](https://github.com/bishnoibajrang/ReactNewsApp) 📰
+  - Developed a React application for fetching and displaying news articles using an API.
 
+- **Daily Coding Challenge:** [Repository Link](https://github.com/bishnoibajrang/DailyCodingChallenge)🔥
+  - Repository documenting daily coding challenges and solutions, aimed at improving algorithmic problem-solving skills.
 
-**CERTIFICATIONS** 📜
+- **LeetCode Interview Top 150:**  (Private Repository)🌟
+  - Repository containing solutions to the top 150 LeetCode interview questions in various programming languages.
+
+<h2>CERTIFICATIONS 📜</h2>
 
 - Amazon AWS Builders Online Series (July 2022) 🌐
 - Cyber Security Certification, SWAYAM (October 2023) 🔒
 
-**INTERNSHIPS** 🌐
+<h2>INTERNSHIPS 🌐</h2>
 
 - **Microsoft Azure AI Introduction (June 2022):**
-  - Completed the Microsoft Azure AI Introduction course, gaining foundational knowledge of artificial intelligence concepts and their application in Microsoft Azure services.
+  - Completed the Microsoft Azure AI Introduction course on learn.microsoft.com, gaining foundational knowledge of artificial intelligence concepts and their application in Microsoft Azure services.
 
 - **Cyber Security and Digital Forensics Intern (December 2023):**
   - Company: NAS.io
   - Assisted in cyber security investigations and digital forensics procedures, contributing to enhancing data security measures.
 
-**ADDITIONAL INFORMATION** ℹ️
+<h2>ADDITIONAL INFORMATION ℹ️</h2>
 
-- Passionate about continuous learning and staying updated with the latest advancements in technology.
-- Actively participate in coding challenges on platforms like LeetCode and HackerRank to sharpen problem-solving skills.
-- Enjoy creating multimedia content and animations, blending creativity with technical expertise.
+- Passionate about learning new technologies, drawing animations, and multimedia production.
 - Proficient in content creation for social media platforms, promoting tech education and sharing insights with a global audience.
+- Language Proficiency: English, Hindi, Marathi, Basic Spanish.
 
-**LANGUAGE PROFICIENCY** 🌍
+<h2>📫 How to Reach Me:</h2>
 
-- Languages: English, Hindi, Marathi, Basic Spanish
+<p>(I'll update this section soon)</p>
 
-**HOW TO REACH ME** 📫
-(I'll update this section soon)
-
-1. [LinkedIn](https://www.linkedin.com/in/yourprofile) 🌐
-2. [GitHub](https://github.com/yourusername) 🐙
-3. [Twitter](https://twitter.com/yourhandle) 🐦
-4. [Instagram](https://www.instagram.com/yourhandle) 📷
-5. [Medium](https://medium.com/@yourusername) ✍️
-
-Feel free to connect with me on these platforms!
+<ol>
+  <li><a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">LinkedIn</a> 🌐</li>
+  <li><a href="https://github.com/laxmena">GitHub</a> 🐙</li>
+  <li><a href="https://twitter.com/yourhandle">Twitter</a> 🐦</li>
+  <li><a href="https://www.instagram.com/yourhandle">Instagram</a> 📷</li>
+  <li><a href="https://medium.com/@yourusername">Medium</a> ✍️</li>
+</ol>
