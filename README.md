@@ -65,4 +65,3 @@ Enthusiastic and dedicated Computer Science graduate seeking an entry-level posi
 <h2>📫 How to Reach Me:</h2>
 
 <p>(I'll update this section soon)</p>
-<a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
