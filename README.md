@@ -5,6 +5,7 @@
 
 <h2>Hey there! 👋</h2>
 I'm IndianCoder29, an aspiring Engineer in Software Development based in somewhere, India.
+![Lol Text](./motivation.jpg)
 
 <h2>SKILLS 💻</h2>
 
